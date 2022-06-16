@@ -37,8 +37,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://github.com/tomtsagk/rue/archive/refs/tags/v0.3.0-1.tar.gz",
-					"sha256": "c9d787a5fb54d4dd1081ee449a7902272c2d297ceaff936b09bf1d639cfa4eb5"
+					"url": "https://github.com/tomtsagk/rue/archive/refs/tags/v0.3.0-2.tar.gz",
+					"sha256": "7b217c4b0911e2ebf51ffcc8503cb011e544016bb471ceefb6db33e28198be98"
 				}
 			]
 		}
